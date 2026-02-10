@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+dataset/
+output/
+models/*.yml
+models/*.txt
